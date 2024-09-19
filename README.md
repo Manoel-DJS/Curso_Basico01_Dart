@@ -1,18 +1,28 @@
 # flutter_application_01
 
+# Aula 01 do Montanha
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-## Aula 01 do Montanha
+# Projeto Exemplo Dart
 
-A few resources to get you started if this is your first Flutter project:
+Projeto exemplo de Dart. Para os curso Análise e Desenvolvimento de Sistemas, do Grupo Ânima Educação.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como rodar o projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone o repositório
+2. Abra o projeto no Visual Studio Code
+3. Execute o projeto
+4. Veja o resultado
+
+## Comando para rodar o projeto
+
+```bash
+dart run
+```
+## Autor
+
+- [Manoel Vinicius](https://github.com/Manoel-DJS)
